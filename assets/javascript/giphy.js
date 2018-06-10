@@ -55,4 +55,4 @@ function displayGiphyInfo() {
     }
     console.log(response);
     console.log(queryUrl);
-  
+  });
